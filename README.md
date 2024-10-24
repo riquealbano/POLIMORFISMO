@@ -1,6 +1,6 @@
 # Polimorfismo
 
-Projeto a fim de estudos, desenvolvendo ultima atividade sobre Classes Estáticas
+Projeto a fim de estudos, desenvolvendo ultima atividade sobre Polimorfismo de métodos
 
 ## 🚀 Começando
 
